@@ -19,4 +19,5 @@ public class ByteArrayInputStreamRunner {
             System.out.println((char) c);
         }
     }
+
 }
